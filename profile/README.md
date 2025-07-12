@@ -18,6 +18,10 @@ We plan on the following features being available at launch:
 - Inter-Host logins, allowing you to use your offical account on your own server
 - & more...
 
+## Update! 13/07/2025
+
+Dev work has begun on our inital concept for a single-executable server (we aren't aming for the moon yet). As of 3:42am AEST today, the server lives for the first time! Words cannot begin to explain how excited I am at the sight of a single console screen. Work is progressing at a very significant rate and I hope to have our first prototype out in less than 2 months. 
+
 ## Documentation and Planning
 
 You can find all of our documentation and planning [here](https://github.com/Echo-Chat-Systems/docs/). 
