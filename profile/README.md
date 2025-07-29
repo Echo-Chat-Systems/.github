@@ -22,9 +22,13 @@ We plan on the following features being available at launch:
 
 Dev work has begun on our inital concept for a single-executable server (we aren't aming for the moon yet). As of 3:42am AEST today, the server lives for the first time! Words cannot begin to explain how excited I am at the sight of a single console screen. Work is progressing at a very significant rate and I hope to have our first prototype out in less than 2 months. 
 
+## Update 29/07/2025
+
+Protocol documentation is my main focus right now. I want to get the protocol set in stone (or as close as possible) before I continue work on the server. I also purchased echo-chat.au for the purposes of this project. Hosted docs can now be found at https://docs.echo-chat.au
+
 ## Documentation and Planning
 
-You can find all of our documentation and planning [here](https://github.com/Echo-Chat-Systems/docs/). 
+You can find all of our documentation and planning [here](https://docs.echo-chat.au). 
 
 ## Join The Team
 
